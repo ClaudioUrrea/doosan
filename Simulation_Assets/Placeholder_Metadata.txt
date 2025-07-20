@@ -1,0 +1,20 @@
+# Synthetic HRC Dataset for Adaptive Task Allocation
+This dataset supports the paper "Advancing Human-Robot Collaboration for Industry 5.0: A Simulation-Based Hybrid Deep Learning and Reinforcement Learning Framework for Adaptive Task Allocation" by Claudio Urrea.
+
+## Contents
+- `HRC_Simulation_Results.csv`: Performance metrics for 1,000 HRC episodes (Tables 2–3). Columns: Episode, Throughput, Workload, Safety, StateIndex, Action.
+- `HRC_Simulation_Log_Episodes.txt`: Log of 1,000 episodes detailing state indices and actions (Figures 4, 6).
+- `HRC_Synthetic_Dataset.parquet`: Expanded dataset with human-state, robot-performance, and task attributes (Section 2.2). Columns: Episode, Throughput, Workload, Safety, StateIndex, Action, Fatigue, Skill, CompletionTime, RobotSuccess, RobotExecTime, CollisionFlag, TaskID, TaskType, TaskComplexity.
+- `Table_2.csv`: Performance metrics for Hybrid DL-RL, Rule-Based, SARSA (Table 2).
+- `Table_3.csv`: Performance metrics by human state (Table 3).
+
+## Generation
+Generated using `hrc_simulation.m` and `generate_synthetic_dataset.m` in https://github.com/ClaudioUrrea/hrc-simulation.
+
+## Usage
+- Load `HRC_Simulation_Results.csv` or `HRC_Synthetic_Dataset.parquet` in MATLAB R2025a.
+- Use `Table_2.m`, `Table_3.m` to reproduce Tables 2 and 3.
+- Refer to `HRC_Simulation_Log_Episodes.txt` for episode details (Figures 4, 6).
+
+## License
+CC-BY 4.0

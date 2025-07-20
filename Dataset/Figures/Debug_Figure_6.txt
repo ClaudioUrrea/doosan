@@ -1,0 +1,310 @@
+>> Figure_6
+Default taskPositions initialized.
+Default humanStates initialized.
+Connection established on port 20500.
+Debug: pose for Task 1 (RoboDK): Interface:
+     1     0     0   500
+     0     1     0     0
+     0     0     1   100
+     0     0     0     1
+
+Debug: poseVector for Task 1 (RoboDK): Interface (16x1):
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+   500
+     0
+   100
+     1
+
+Debug for Task 1 (RoboDK): Interface: textColor forced to black
+Debug: pose for Task 2 (RoboDK): Sorting:
+     1     0     0   600
+     0     1     0   100
+     0     0     1   100
+     0     0     0     1
+
+Debug: poseVector for Task 2 (RoboDK): Sorting (16x1):
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+   600
+   100
+   100
+     1
+
+AddTarget failed for Task 2 (RoboDK): Sorting (Attempt 1): Error receiving data from the remote server.
+Additional Information: Operation timed out before requested data was received.
+Retrying...
+Debug for Task 2 (RoboDK): Sorting: textColor forced to black
+Debug: pose for Task 3 (RoboDK): Picking:
+     1     0     0   600
+     0     1     0  -100
+     0     0     1   100
+     0     0     0     1
+
+Debug: poseVector for Task 3 (RoboDK): Picking (16x1):
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+   600
+  -100
+   100
+     1
+
+AddTarget failed for Task 3 (RoboDK): Picking (Attempt 1): Error receiving data from the remote server.
+Additional Information: Operation timed out before requested data was received.
+Retrying...
+Debug for Task 3 (RoboDK): Picking: textColor forced to black
+Debug: pose for Task 4 (RoboDK): Replenishing:
+     1     0     0   700
+     0     1     0     0
+     0     0     1   100
+     0     0     0     1
+
+Debug: poseVector for Task 4 (RoboDK): Replenishing (16x1):
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+   700
+     0
+   100
+     1
+
+AddTarget failed for Task 4 (RoboDK): Replenishing (Attempt 1): Error receiving data from the remote server.
+Additional Information: Operation timed out before requested data was received.
+Retrying...
+Debug for Task 4 (RoboDK): Replenishing: textColor forced to black
+Debug: pose for Task 5 (RoboDK): Transport:
+     1     0     0   800
+     0     1     0     0
+     0     0     1   100
+     0     0     0     1
+
+Debug: poseVector for Task 5 (RoboDK): Transport (16x1):
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+     0
+     0
+     0
+     1
+     0
+   800
+     0
+   100
+     1
+
+AddTarget failed for Task 5 (RoboDK): Transport (Attempt 1): Error receiving data from the remote server.
+Additional Information: Operation timed out before requested data was received.
+Retrying...
+Debug for Task 5 (RoboDK): Transport: textColor forced to black
+Check RoboDK interface for real-time visualization.
+Debug: xticklabels generated:
+    {'500'}    {'650'}    {'800'}
+
+Debug: yticklabels generated:
+    {'−100'}    {'−50'}    {'0'}    {'50'}    {'100'}
+
+Debug: zticklabels generated:
+    {'100'}    {'101'}    {'102'}
+
+Debug: Figure rendering completed. Checking axes state...
+              CameraPosition: [-719.7132 -1.1900e+03 113.4904]
+          CameraPositionMode: 'auto'
+                CameraTarget: [650 0 100.5000]
+            CameraTargetMode: 'auto'
+              CameraUpVector: [0 0 1]
+          CameraUpVectorMode: 'auto'
+             CameraViewAngle: 10.3396
+         CameraViewAngleMode: 'auto'
+                        View: [-37.5000 30]
+                  Projection: 'orthographic'
+     LabelFontSizeMultiplier: 1.1000
+           AmbientLightColor: [1 1 1]
+             DataAspectRatio: [100 66.6667 1]
+         DataAspectRatioMode: 'auto'
+          PlotBoxAspectRatio: [1 0.9414 0.8505]
+      PlotBoxAspectRatioMode: 'auto'
+                    FontName: 'Palatino Linotype'
+                   FontAngle: 'normal'
+                  FontWeight: 'normal'
+               FontSmoothing: on
+        TickLabelInterpreter: 'tex'
+                        XLim: [500 800]
+                    XLimMode: 'auto'
+                        YLim: [-100 100]
+                    YLimMode: 'auto'
+                        ZLim: [99 102]
+                    ZLimMode: 'manual'
+                XLimitMethod: 'tickaligned'
+                YLimitMethod: 'tickaligned'
+                ZLimitMethod: 'tickaligned'
+                        XDir: 'normal'
+                        YDir: 'normal'
+                        ZDir: 'normal'
+                        CLim: [0 1]
+                    CLimMode: 'auto'
+                        ALim: [0 1]
+                    ALimMode: 'auto'
+                       Layer: 'bottom'
+                  TickLength: [0.0100 0.0250]
+               GridLineWidth: 0.5000
+           GridLineWidthMode: 'auto'
+          MinorGridLineWidth: 0.5000
+      MinorGridLineWidthMode: 'auto'
+               GridLineStyle: '-'
+          MinorGridLineStyle: ':'
+               XAxisLocation: 'bottom'
+                      XColor: [0.1294 0.1294 0.1294]
+                  XColorMode: 'auto'
+                       XTick: [500 650 800]
+                   XTickMode: 'manual'
+          XTickLabelRotation: 0
+      XTickLabelRotationMode: 'auto'
+                      XLabel: [1×1 Text]
+                      XScale: 'linear'
+                  XTickLabel: {3×1 cell}
+              XTickLabelMode: 'manual'
+                  XMinorTick: off
+               YAxisLocation: 'left'
+                      YColor: [0.1294 0.1294 0.1294]
+                  YColorMode: 'auto'
+                       YTick: [-100 -50 0 50 100]
+                   YTickMode: 'manual'
+          YTickLabelRotation: 0
+      YTickLabelRotationMode: 'auto'
+                      YLabel: [1×1 Text]
+                      YScale: 'linear'
+                  YTickLabel: {5×1 cell}
+              YTickLabelMode: 'manual'
+                  YMinorTick: off
+                      ZColor: [0.1294 0.1294 0.1294]
+                  ZColorMode: 'auto'
+                       ZTick: [100 101 102]
+                   ZTickMode: 'manual'
+          ZTickLabelRotation: 0
+      ZTickLabelRotationMode: 'auto'
+                      ZLabel: [1×1 Text]
+                      ZScale: 'linear'
+                  ZTickLabel: {3×1 cell}
+              ZTickLabelMode: 'manual'
+                  ZMinorTick: off
+                    BoxStyle: 'back'
+                   LineWidth: 0.5000
+                       Color: [1 1 1]
+               ClippingStyle: '3dbox'
+                CurrentPoint: [2×3 double]
+                  ColorScale: 'linear'
+                  AlphaScale: 'linear'
+                       Title: [1×1 Text]
+    TitleHorizontalAlignment: 'center'
+                    Subtitle: [1×1 Text]
+                   GridColor: [0.1294 0.1294 0.1294]
+               GridColorMode: 'auto'
+              MinorGridColor: [0.1294 0.1294 0.1294]
+          MinorGridColorMode: 'auto'
+                   GridAlpha: 0.1500
+               GridAlphaMode: 'auto'
+              MinorGridAlpha: 0.1500
+          MinorGridAlphaMode: 'auto'
+                       XAxis: [1×1 NumericRuler]
+                       ZAxis: [1×1 NumericRuler]
+                         Box: off
+                     TickDir: 'out'
+                 TickDirMode: 'auto'
+                       XGrid: on
+                  XMinorGrid: off
+                       YGrid: on
+                  YMinorGrid: off
+                       ZGrid: on
+                  ZMinorGrid: off
+                       YAxis: [1×1 NumericRuler]
+                       Units: 'normalized'
+                    Position: [0.1300 0.1100 0.7750 0.8150]
+               InnerPosition: [0.1300 0.1100 0.7750 0.8150]
+               OuterPosition: [0 0 1 1]
+          PositionConstraint: 'outerposition'
+                  TightInset: [0.0956 0.0656 0.0538 0.0552]
+                    Colormap: [256×3 double]
+                    Alphamap: [0 0.0159 0.0317 0.0476 0.0635 0.0794 0.0952 0.1111 0.1270 0.1429 0.1587 0.1746 0.1905 0.2063 0.2222 0.2381 0.2540 0.2698 0.2857 0.3016 0.3175 0.3333 0.3492 0.3651 0.3810 0.3968 0.4127 0.4286 0.4444 … ] (1×64 double)
+                  ColorOrder: [7×3 double]
+             ColorOrderIndex: 6
+              LineStyleOrder: '-'
+         LineStyleOrderIndex: 1
+      LineStyleCyclingMethod: 'aftercolor'
+                   FontUnits: 'points'
+                    FontSize: 14
+                FontSizeMode: 'manual'
+             TitleFontWeight: 'bold'
+          SubtitleFontWeight: 'normal'
+     TitleFontSizeMultiplier: 1.1000
+                  SortMethod: 'depth'
+                    Clipping: on
+                    NextPlot: 'replace'
+                     Toolbar: [1×1 AxesToolbar]
+                Interactions: [1×1 matlab.graphics.interaction.interface.DefaultAxesInteractionSet]
+          InteractionOptions: [1×1 matlab.graphics.interaction.interactionoptions.CartesianAxesInteractionOptions]
+                    Children: [10×1 Graphics]
+                      Parent: [1×1 Figure]
+                     Visible: on
+            HandleVisibility: 'on'
+                      Layout: [0×0 matlab.ui.layout.LayoutOptions]
+             NextSeriesIndex: 6
+               ButtonDownFcn: ''
+                 ContextMenu: [0×0 GraphicsPlaceholder]
+                  BusyAction: 'queue'
+                BeingDeleted: off
+               Interruptible: on
+                   CreateFcn: ''
+                   DeleteFcn: ''
+                        Type: 'axes'
+                         Tag: ''
+                    UserData: []
+                    Selected: off
+          SelectionHighlight: on
+                     HitTest: on
+               PickableParts: 'visible'
+                      Legend: [1×1 Legend]
+
+>> 

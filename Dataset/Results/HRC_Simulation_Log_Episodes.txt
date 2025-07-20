@@ -1,0 +1,2021 @@
+=== HRC Simulation Initializing ===
+RoboDK API path set to: C:\RoboDK\API\MATLAB
+Initializing RoboDK-MATLAB connection...
+RoboDK-MATLAB connection established.
+Initial task queue length: 5
+Synthetic human states data generated
+Episode 1: Calculated stateIdx = 4
+Debug: Episode 1: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 2: Calculated stateIdx = 8
+Debug: Episode 2: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 3: Calculated stateIdx = 9
+Debug: Episode 3: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 4: Calculated stateIdx = 6
+Debug: Episode 4: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 5: Calculated stateIdx = 3
+Debug: Episode 5: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 6: Calculated stateIdx = 2
+Debug: Episode 6: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 7: Calculated stateIdx = 2
+Debug: Episode 7: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 8: Calculated stateIdx = 9
+Debug: Episode 8: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 9: Calculated stateIdx = 4
+Debug: Episode 9: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 10: Calculated stateIdx = 8
+Debug: Episode 10: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 11: Calculated stateIdx = 1
+Debug: Episode 11: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 12: Calculated stateIdx = 9
+Debug: Episode 12: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 13: Calculated stateIdx = 9
+Debug: Episode 13: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 14: Calculated stateIdx = 1
+Debug: Episode 14: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 15: Calculated stateIdx = 3
+Debug: Episode 15: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 16: Calculated stateIdx = 3
+Debug: Episode 16: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 17: Calculated stateIdx = 1
+Debug: Episode 17: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 18: Calculated stateIdx = 5
+Debug: Episode 18: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 19: Calculated stateIdx = 6
+Debug: Episode 19: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 20: Calculated stateIdx = 1
+Debug: Episode 20: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 21: Calculated stateIdx = 5
+Debug: Episode 21: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 22: Calculated stateIdx = 1
+Debug: Episode 22: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 23: Calculated stateIdx = 3
+Debug: Episode 23: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 24: Calculated stateIdx = 6
+Debug: Episode 24: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 25: Calculated stateIdx = 6
+Debug: Episode 25: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 26: Calculated stateIdx = 8
+Debug: Episode 26: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 27: Calculated stateIdx = 3
+Debug: Episode 27: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 28: Calculated stateIdx = 6
+Debug: Episode 28: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 29: Calculated stateIdx = 5
+Debug: Episode 29: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 30: Calculated stateIdx = 3
+Debug: Episode 30: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 31: Calculated stateIdx = 4
+Debug: Episode 31: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 32: Calculated stateIdx = 2
+Debug: Episode 32: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 33: Calculated stateIdx = 1
+Debug: Episode 33: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 34: Calculated stateIdx = 7
+Debug: Episode 34: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 35: Calculated stateIdx = 7
+Debug: Episode 35: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 36: Calculated stateIdx = 8
+Debug: Episode 36: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 37: Calculated stateIdx = 2
+Debug: Episode 37: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 38: Calculated stateIdx = 3
+Debug: Episode 38: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 39: Calculated stateIdx = 7
+Debug: Episode 39: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 40: Calculated stateIdx = 5
+Debug: Episode 40: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 41: Calculated stateIdx = 2
+Debug: Episode 41: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 42: Calculated stateIdx = 6
+Debug: Episode 42: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 43: Calculated stateIdx = 2
+Debug: Episode 43: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 44: Calculated stateIdx = 8
+Debug: Episode 44: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 45: Calculated stateIdx = 3
+Debug: Episode 45: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 46: Calculated stateIdx = 8
+Debug: Episode 46: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 47: Calculated stateIdx = 1
+Debug: Episode 47: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 48: Calculated stateIdx = 4
+Debug: Episode 48: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 49: Calculated stateIdx = 6
+Debug: Episode 49: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 50: Calculated stateIdx = 1
+Debug: Episode 50: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 51: Calculated stateIdx = 9
+Debug: Episode 51: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 52: Calculated stateIdx = 8
+Debug: Episode 52: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 53: Calculated stateIdx = 9
+Debug: Episode 53: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 54: Calculated stateIdx = 9
+Debug: Episode 54: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 55: Calculated stateIdx = 6
+Debug: Episode 55: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 56: Calculated stateIdx = 8
+Debug: Episode 56: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 57: Calculated stateIdx = 3
+Debug: Episode 57: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 58: Calculated stateIdx = 2
+Debug: Episode 58: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 59: Calculated stateIdx = 2
+Debug: Episode 59: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 60: Calculated stateIdx = 2
+Debug: Episode 60: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 61: Calculated stateIdx = 6
+Debug: Episode 61: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 62: Calculated stateIdx = 3
+Debug: Episode 62: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 63: Calculated stateIdx = 9
+Debug: Episode 63: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 64: Calculated stateIdx = 5
+Debug: Episode 64: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 65: Calculated stateIdx = 2
+Debug: Episode 65: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 66: Calculated stateIdx = 6
+Debug: Episode 66: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 67: Calculated stateIdx = 1
+Debug: Episode 67: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 68: Calculated stateIdx = 7
+Debug: Episode 68: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 69: Calculated stateIdx = 2
+Debug: Episode 69: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 70: Calculated stateIdx = 7
+Debug: Episode 70: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 71: Calculated stateIdx = 7
+Debug: Episode 71: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 72: Calculated stateIdx = 1
+Debug: Episode 72: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 73: Calculated stateIdx = 1
+Debug: Episode 73: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 74: Calculated stateIdx = 7
+Debug: Episode 74: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 75: Calculated stateIdx = 9
+Debug: Episode 75: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 76: Calculated stateIdx = 8
+Debug: Episode 76: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 77: Calculated stateIdx = 8
+Debug: Episode 77: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 78: Calculated stateIdx = 2
+Debug: Episode 78: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 79: Calculated stateIdx = 4
+Debug: Episode 79: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 80: Calculated stateIdx = 3
+Debug: Episode 80: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 81: Calculated stateIdx = 9
+Debug: Episode 81: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 82: Calculated stateIdx = 4
+Debug: Episode 82: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 83: Calculated stateIdx = 5
+Debug: Episode 83: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 84: Calculated stateIdx = 3
+Debug: Episode 84: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 85: Calculated stateIdx = 3
+Debug: Episode 85: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 86: Calculated stateIdx = 2
+Debug: Episode 86: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 87: Calculated stateIdx = 8
+Debug: Episode 87: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 88: Calculated stateIdx = 4
+Debug: Episode 88: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 89: Calculated stateIdx = 9
+Debug: Episode 89: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 90: Calculated stateIdx = 4
+Debug: Episode 90: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 91: Calculated stateIdx = 3
+Debug: Episode 91: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 92: Calculated stateIdx = 8
+Debug: Episode 92: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 93: Calculated stateIdx = 8
+Debug: Episode 93: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 94: Calculated stateIdx = 5
+Debug: Episode 94: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 95: Calculated stateIdx = 7
+Debug: Episode 95: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 96: Calculated stateIdx = 4
+Debug: Episode 96: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 97: Calculated stateIdx = 4
+Debug: Episode 97: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 98: Calculated stateIdx = 4
+Debug: Episode 98: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 99: Calculated stateIdx = 3
+Debug: Episode 99: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 100: Calculated stateIdx = 2
+Debug: Episode 100: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Completed 100/1000 episodes
+Episode 101: Calculated stateIdx = 1
+Debug: Episode 101: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 102: Calculated stateIdx = 6
+Debug: Episode 102: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 103: Calculated stateIdx = 3
+Debug: Episode 103: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 104: Calculated stateIdx = 6
+Debug: Episode 104: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 105: Calculated stateIdx = 9
+Debug: Episode 105: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 106: Calculated stateIdx = 1
+Debug: Episode 106: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 107: Calculated stateIdx = 5
+Debug: Episode 107: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 108: Calculated stateIdx = 9
+Debug: Episode 108: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 109: Calculated stateIdx = 2
+Debug: Episode 109: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 110: Calculated stateIdx = 1
+Debug: Episode 110: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 111: Calculated stateIdx = 3
+Debug: Episode 111: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 112: Calculated stateIdx = 1
+Debug: Episode 112: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 113: Calculated stateIdx = 7
+Debug: Episode 113: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 114: Calculated stateIdx = 8
+Debug: Episode 114: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 115: Calculated stateIdx = 5
+Debug: Episode 115: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 116: Calculated stateIdx = 8
+Debug: Episode 116: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 117: Calculated stateIdx = 7
+Debug: Episode 117: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 118: Calculated stateIdx = 3
+Debug: Episode 118: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 119: Calculated stateIdx = 7
+Debug: Episode 119: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 120: Calculated stateIdx = 4
+Debug: Episode 120: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 121: Calculated stateIdx = 9
+Debug: Episode 121: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 122: Calculated stateIdx = 9
+Debug: Episode 122: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 123: Calculated stateIdx = 3
+Debug: Episode 123: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 124: Calculated stateIdx = 3
+Debug: Episode 124: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 125: Calculated stateIdx = 2
+Debug: Episode 125: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 126: Calculated stateIdx = 5
+Debug: Episode 126: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 127: Calculated stateIdx = 7
+Debug: Episode 127: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 128: Calculated stateIdx = 8
+Debug: Episode 128: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 129: Calculated stateIdx = 2
+Debug: Episode 129: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 130: Calculated stateIdx = 4
+Debug: Episode 130: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 131: Calculated stateIdx = 6
+Debug: Episode 131: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 132: Calculated stateIdx = 2
+Debug: Episode 132: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 133: Calculated stateIdx = 1
+Debug: Episode 133: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 134: Calculated stateIdx = 4
+Debug: Episode 134: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 135: Calculated stateIdx = 8
+Debug: Episode 135: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 136: Calculated stateIdx = 1
+Debug: Episode 136: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 137: Calculated stateIdx = 6
+Debug: Episode 137: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 138: Calculated stateIdx = 8
+Debug: Episode 138: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 139: Calculated stateIdx = 5
+Debug: Episode 139: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 140: Calculated stateIdx = 8
+Debug: Episode 140: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 141: Calculated stateIdx = 9
+Debug: Episode 141: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 142: Calculated stateIdx = 2
+Debug: Episode 142: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 143: Calculated stateIdx = 5
+Debug: Episode 143: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 144: Calculated stateIdx = 2
+Debug: Episode 144: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 145: Calculated stateIdx = 1
+Debug: Episode 145: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 146: Calculated stateIdx = 3
+Debug: Episode 146: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 147: Calculated stateIdx = 6
+Debug: Episode 147: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 148: Calculated stateIdx = 5
+Debug: Episode 148: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 149: Calculated stateIdx = 3
+Debug: Episode 149: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 150: Calculated stateIdx = 3
+Debug: Episode 150: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 151: Calculated stateIdx = 9
+Debug: Episode 151: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 152: Calculated stateIdx = 3
+Debug: Episode 152: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 153: Calculated stateIdx = 2
+Debug: Episode 153: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 154: Calculated stateIdx = 5
+Debug: Episode 154: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 155: Calculated stateIdx = 8
+Debug: Episode 155: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 156: Calculated stateIdx = 3
+Debug: Episode 156: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 157: Calculated stateIdx = 7
+Debug: Episode 157: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 158: Calculated stateIdx = 9
+Debug: Episode 158: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 159: Calculated stateIdx = 3
+Debug: Episode 159: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 160: Calculated stateIdx = 7
+Debug: Episode 160: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 161: Calculated stateIdx = 6
+Debug: Episode 161: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 162: Calculated stateIdx = 4
+Debug: Episode 162: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 163: Calculated stateIdx = 5
+Debug: Episode 163: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 164: Calculated stateIdx = 6
+Debug: Episode 164: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 165: Calculated stateIdx = 1
+Debug: Episode 165: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 166: Calculated stateIdx = 9
+Debug: Episode 166: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 167: Calculated stateIdx = 3
+Debug: Episode 167: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 168: Calculated stateIdx = 2
+Debug: Episode 168: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 169: Calculated stateIdx = 1
+Debug: Episode 169: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 170: Calculated stateIdx = 4
+Debug: Episode 170: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 171: Calculated stateIdx = 8
+Debug: Episode 171: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 172: Calculated stateIdx = 3
+Debug: Episode 172: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 173: Calculated stateIdx = 5
+Debug: Episode 173: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 174: Calculated stateIdx = 1
+Debug: Episode 174: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 175: Calculated stateIdx = 5
+Debug: Episode 175: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 176: Calculated stateIdx = 2
+Debug: Episode 176: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 177: Calculated stateIdx = 9
+Debug: Episode 177: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 178: Calculated stateIdx = 4
+Debug: Episode 178: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 179: Calculated stateIdx = 9
+Debug: Episode 179: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 180: Calculated stateIdx = 2
+Debug: Episode 180: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 181: Calculated stateIdx = 6
+Debug: Episode 181: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 182: Calculated stateIdx = 2
+Debug: Episode 182: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 183: Calculated stateIdx = 8
+Debug: Episode 183: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 184: Calculated stateIdx = 9
+Debug: Episode 184: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 185: Calculated stateIdx = 1
+Debug: Episode 185: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 186: Calculated stateIdx = 6
+Debug: Episode 186: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 187: Calculated stateIdx = 8
+Debug: Episode 187: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 188: Calculated stateIdx = 4
+Debug: Episode 188: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 189: Calculated stateIdx = 5
+Debug: Episode 189: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 190: Calculated stateIdx = 3
+Debug: Episode 190: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 191: Calculated stateIdx = 1
+Debug: Episode 191: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 192: Calculated stateIdx = 8
+Debug: Episode 192: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 193: Calculated stateIdx = 8
+Debug: Episode 193: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 194: Calculated stateIdx = 5
+Debug: Episode 194: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 195: Calculated stateIdx = 4
+Debug: Episode 195: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 196: Calculated stateIdx = 6
+Debug: Episode 196: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 197: Calculated stateIdx = 9
+Debug: Episode 197: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 198: Calculated stateIdx = 9
+Debug: Episode 198: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 199: Calculated stateIdx = 9
+Debug: Episode 199: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 200: Calculated stateIdx = 7
+Debug: Episode 200: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Completed 200/1000 episodes
+Episode 201: Calculated stateIdx = 6
+Debug: Episode 201: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 202: Calculated stateIdx = 1
+Debug: Episode 202: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 203: Calculated stateIdx = 1
+Debug: Episode 203: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 204: Calculated stateIdx = 8
+Debug: Episode 204: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 205: Calculated stateIdx = 5
+Debug: Episode 205: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 206: Calculated stateIdx = 3
+Debug: Episode 206: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 207: Calculated stateIdx = 2
+Debug: Episode 207: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 208: Calculated stateIdx = 8
+Debug: Episode 208: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 209: Calculated stateIdx = 1
+Debug: Episode 209: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 210: Calculated stateIdx = 3
+Debug: Episode 210: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 211: Calculated stateIdx = 5
+Debug: Episode 211: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 212: Calculated stateIdx = 8
+Debug: Episode 212: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 213: Calculated stateIdx = 4
+Debug: Episode 213: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 214: Calculated stateIdx = 3
+Debug: Episode 214: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 215: Calculated stateIdx = 8
+Debug: Episode 215: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 216: Calculated stateIdx = 1
+Debug: Episode 216: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 217: Calculated stateIdx = 1
+Debug: Episode 217: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 218: Calculated stateIdx = 8
+Debug: Episode 218: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 219: Calculated stateIdx = 5
+Debug: Episode 219: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 220: Calculated stateIdx = 7
+Debug: Episode 220: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 221: Calculated stateIdx = 6
+Debug: Episode 221: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 222: Calculated stateIdx = 4
+Debug: Episode 222: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 223: Calculated stateIdx = 2
+Debug: Episode 223: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 224: Calculated stateIdx = 6
+Debug: Episode 224: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 225: Calculated stateIdx = 2
+Debug: Episode 225: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 226: Calculated stateIdx = 2
+Debug: Episode 226: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 227: Calculated stateIdx = 8
+Debug: Episode 227: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 228: Calculated stateIdx = 4
+Debug: Episode 228: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 229: Calculated stateIdx = 9
+Debug: Episode 229: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 230: Calculated stateIdx = 5
+Debug: Episode 230: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 231: Calculated stateIdx = 9
+Debug: Episode 231: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 232: Calculated stateIdx = 4
+Debug: Episode 232: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 233: Calculated stateIdx = 4
+Debug: Episode 233: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 234: Calculated stateIdx = 4
+Debug: Episode 234: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 235: Calculated stateIdx = 2
+Debug: Episode 235: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 236: Calculated stateIdx = 8
+Debug: Episode 236: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 237: Calculated stateIdx = 3
+Debug: Episode 237: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 238: Calculated stateIdx = 2
+Debug: Episode 238: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 239: Calculated stateIdx = 6
+Debug: Episode 239: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 240: Calculated stateIdx = 1
+Debug: Episode 240: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 241: Calculated stateIdx = 9
+Debug: Episode 241: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 242: Calculated stateIdx = 9
+Debug: Episode 242: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 243: Calculated stateIdx = 9
+Debug: Episode 243: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 244: Calculated stateIdx = 6
+Debug: Episode 244: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 245: Calculated stateIdx = 3
+Debug: Episode 245: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 246: Calculated stateIdx = 8
+Debug: Episode 246: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 247: Calculated stateIdx = 4
+Debug: Episode 247: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 248: Calculated stateIdx = 7
+Debug: Episode 248: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 249: Calculated stateIdx = 9
+Debug: Episode 249: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 250: Calculated stateIdx = 8
+Debug: Episode 250: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 251: Calculated stateIdx = 3
+Debug: Episode 251: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 252: Calculated stateIdx = 5
+Debug: Episode 252: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 253: Calculated stateIdx = 7
+Debug: Episode 253: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 254: Calculated stateIdx = 1
+Debug: Episode 254: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 255: Calculated stateIdx = 2
+Debug: Episode 255: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 256: Calculated stateIdx = 5
+Debug: Episode 256: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 257: Calculated stateIdx = 7
+Debug: Episode 257: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 258: Calculated stateIdx = 8
+Debug: Episode 258: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 259: Calculated stateIdx = 4
+Debug: Episode 259: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 260: Calculated stateIdx = 2
+Debug: Episode 260: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 261: Calculated stateIdx = 4
+Debug: Episode 261: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 262: Calculated stateIdx = 9
+Debug: Episode 262: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 263: Calculated stateIdx = 2
+Debug: Episode 263: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 264: Calculated stateIdx = 5
+Debug: Episode 264: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 265: Calculated stateIdx = 7
+Debug: Episode 265: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 266: Calculated stateIdx = 7
+Debug: Episode 266: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 267: Calculated stateIdx = 8
+Debug: Episode 267: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 268: Calculated stateIdx = 8
+Debug: Episode 268: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 269: Calculated stateIdx = 5
+Debug: Episode 269: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 270: Calculated stateIdx = 1
+Debug: Episode 270: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 271: Calculated stateIdx = 8
+Debug: Episode 271: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 272: Calculated stateIdx = 9
+Debug: Episode 272: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 273: Calculated stateIdx = 9
+Debug: Episode 273: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 274: Calculated stateIdx = 7
+Debug: Episode 274: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 275: Calculated stateIdx = 5
+Debug: Episode 275: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 276: Calculated stateIdx = 4
+Debug: Episode 276: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 277: Calculated stateIdx = 7
+Debug: Episode 277: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 278: Calculated stateIdx = 6
+Debug: Episode 278: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 279: Calculated stateIdx = 7
+Debug: Episode 279: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 280: Calculated stateIdx = 8
+Debug: Episode 280: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 281: Calculated stateIdx = 8
+Debug: Episode 281: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 282: Calculated stateIdx = 6
+Debug: Episode 282: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 283: Calculated stateIdx = 5
+Debug: Episode 283: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 284: Calculated stateIdx = 1
+Debug: Episode 284: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 285: Calculated stateIdx = 5
+Debug: Episode 285: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 286: Calculated stateIdx = 2
+Debug: Episode 286: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 287: Calculated stateIdx = 4
+Debug: Episode 287: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 288: Calculated stateIdx = 5
+Debug: Episode 288: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 289: Calculated stateIdx = 1
+Debug: Episode 289: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 290: Calculated stateIdx = 4
+Debug: Episode 290: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 291: Calculated stateIdx = 2
+Debug: Episode 291: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 292: Calculated stateIdx = 1
+Debug: Episode 292: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 293: Calculated stateIdx = 8
+Debug: Episode 293: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 294: Calculated stateIdx = 5
+Debug: Episode 294: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 295: Calculated stateIdx = 3
+Debug: Episode 295: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 296: Calculated stateIdx = 4
+Debug: Episode 296: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 297: Calculated stateIdx = 7
+Debug: Episode 297: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 298: Calculated stateIdx = 1
+Debug: Episode 298: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 299: Calculated stateIdx = 5
+Debug: Episode 299: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 300: Calculated stateIdx = 3
+Debug: Episode 300: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Completed 300/1000 episodes
+Episode 301: Calculated stateIdx = 1
+Debug: Episode 301: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 302: Calculated stateIdx = 6
+Debug: Episode 302: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 303: Calculated stateIdx = 4
+Debug: Episode 303: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 304: Calculated stateIdx = 5
+Debug: Episode 304: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 305: Calculated stateIdx = 9
+Debug: Episode 305: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 306: Calculated stateIdx = 9
+Debug: Episode 306: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 307: Calculated stateIdx = 6
+Debug: Episode 307: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 308: Calculated stateIdx = 3
+Debug: Episode 308: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 309: Calculated stateIdx = 8
+Debug: Episode 309: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 310: Calculated stateIdx = 3
+Debug: Episode 310: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 311: Calculated stateIdx = 4
+Debug: Episode 311: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 312: Calculated stateIdx = 3
+Debug: Episode 312: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 313: Calculated stateIdx = 2
+Debug: Episode 313: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 314: Calculated stateIdx = 9
+Debug: Episode 314: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 315: Calculated stateIdx = 8
+Debug: Episode 315: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 316: Calculated stateIdx = 8
+Debug: Episode 316: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 317: Calculated stateIdx = 5
+Debug: Episode 317: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 318: Calculated stateIdx = 3
+Debug: Episode 318: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 319: Calculated stateIdx = 1
+Debug: Episode 319: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 320: Calculated stateIdx = 1
+Debug: Episode 320: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 321: Calculated stateIdx = 4
+Debug: Episode 321: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 322: Calculated stateIdx = 7
+Debug: Episode 322: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 323: Calculated stateIdx = 9
+Debug: Episode 323: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 324: Calculated stateIdx = 1
+Debug: Episode 324: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 325: Calculated stateIdx = 9
+Debug: Episode 325: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 326: Calculated stateIdx = 8
+Debug: Episode 326: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 327: Calculated stateIdx = 4
+Debug: Episode 327: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 328: Calculated stateIdx = 6
+Debug: Episode 328: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 329: Calculated stateIdx = 5
+Debug: Episode 329: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 330: Calculated stateIdx = 2
+Debug: Episode 330: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 331: Calculated stateIdx = 5
+Debug: Episode 331: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 332: Calculated stateIdx = 9
+Debug: Episode 332: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 333: Calculated stateIdx = 1
+Debug: Episode 333: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 334: Calculated stateIdx = 3
+Debug: Episode 334: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 335: Calculated stateIdx = 3
+Debug: Episode 335: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 336: Calculated stateIdx = 2
+Debug: Episode 336: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 337: Calculated stateIdx = 7
+Debug: Episode 337: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 338: Calculated stateIdx = 8
+Debug: Episode 338: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 339: Calculated stateIdx = 4
+Debug: Episode 339: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 340: Calculated stateIdx = 1
+Debug: Episode 340: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 341: Calculated stateIdx = 4
+Debug: Episode 341: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 342: Calculated stateIdx = 5
+Debug: Episode 342: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 343: Calculated stateIdx = 3
+Debug: Episode 343: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 344: Calculated stateIdx = 6
+Debug: Episode 344: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 345: Calculated stateIdx = 6
+Debug: Episode 345: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 346: Calculated stateIdx = 5
+Debug: Episode 346: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 347: Calculated stateIdx = 5
+Debug: Episode 347: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 348: Calculated stateIdx = 2
+Debug: Episode 348: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 349: Calculated stateIdx = 6
+Debug: Episode 349: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 350: Calculated stateIdx = 4
+Debug: Episode 350: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 351: Calculated stateIdx = 6
+Debug: Episode 351: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 352: Calculated stateIdx = 8
+Debug: Episode 352: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 353: Calculated stateIdx = 5
+Debug: Episode 353: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 354: Calculated stateIdx = 3
+Debug: Episode 354: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 355: Calculated stateIdx = 2
+Debug: Episode 355: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 356: Calculated stateIdx = 6
+Debug: Episode 356: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 357: Calculated stateIdx = 3
+Debug: Episode 357: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 358: Calculated stateIdx = 5
+Debug: Episode 358: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 359: Calculated stateIdx = 7
+Debug: Episode 359: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 360: Calculated stateIdx = 5
+Debug: Episode 360: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 361: Calculated stateIdx = 6
+Debug: Episode 361: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 362: Calculated stateIdx = 4
+Debug: Episode 362: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 363: Calculated stateIdx = 5
+Debug: Episode 363: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 364: Calculated stateIdx = 5
+Debug: Episode 364: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 365: Calculated stateIdx = 9
+Debug: Episode 365: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 366: Calculated stateIdx = 4
+Debug: Episode 366: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 367: Calculated stateIdx = 9
+Debug: Episode 367: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 368: Calculated stateIdx = 9
+Debug: Episode 368: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 369: Calculated stateIdx = 1
+Debug: Episode 369: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 370: Calculated stateIdx = 1
+Debug: Episode 370: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 371: Calculated stateIdx = 3
+Debug: Episode 371: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 372: Calculated stateIdx = 1
+Debug: Episode 372: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 373: Calculated stateIdx = 3
+Debug: Episode 373: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 374: Calculated stateIdx = 8
+Debug: Episode 374: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 375: Calculated stateIdx = 1
+Debug: Episode 375: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 376: Calculated stateIdx = 3
+Debug: Episode 376: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 377: Calculated stateIdx = 8
+Debug: Episode 377: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 378: Calculated stateIdx = 2
+Debug: Episode 378: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 379: Calculated stateIdx = 8
+Debug: Episode 379: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 380: Calculated stateIdx = 2
+Debug: Episode 380: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 381: Calculated stateIdx = 1
+Debug: Episode 381: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 382: Calculated stateIdx = 8
+Debug: Episode 382: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 383: Calculated stateIdx = 6
+Debug: Episode 383: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 384: Calculated stateIdx = 7
+Debug: Episode 384: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 385: Calculated stateIdx = 8
+Debug: Episode 385: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 386: Calculated stateIdx = 8
+Debug: Episode 386: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 387: Calculated stateIdx = 3
+Debug: Episode 387: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 388: Calculated stateIdx = 1
+Debug: Episode 388: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 389: Calculated stateIdx = 9
+Debug: Episode 389: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 390: Calculated stateIdx = 8
+Debug: Episode 390: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 391: Calculated stateIdx = 7
+Debug: Episode 391: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 392: Calculated stateIdx = 4
+Debug: Episode 392: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 393: Calculated stateIdx = 4
+Debug: Episode 393: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 394: Calculated stateIdx = 8
+Debug: Episode 394: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 395: Calculated stateIdx = 5
+Debug: Episode 395: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 396: Calculated stateIdx = 9
+Debug: Episode 396: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 397: Calculated stateIdx = 8
+Debug: Episode 397: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 398: Calculated stateIdx = 4
+Debug: Episode 398: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 399: Calculated stateIdx = 8
+Debug: Episode 399: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 400: Calculated stateIdx = 9
+Debug: Episode 400: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Completed 400/1000 episodes
+Episode 401: Calculated stateIdx = 1
+Debug: Episode 401: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 402: Calculated stateIdx = 7
+Debug: Episode 402: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 403: Calculated stateIdx = 4
+Debug: Episode 403: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 404: Calculated stateIdx = 9
+Debug: Episode 404: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 405: Calculated stateIdx = 2
+Debug: Episode 405: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 406: Calculated stateIdx = 8
+Debug: Episode 406: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 407: Calculated stateIdx = 6
+Debug: Episode 407: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 408: Calculated stateIdx = 3
+Debug: Episode 408: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 409: Calculated stateIdx = 8
+Debug: Episode 409: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 410: Calculated stateIdx = 3
+Debug: Episode 410: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 411: Calculated stateIdx = 1
+Debug: Episode 411: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 412: Calculated stateIdx = 7
+Debug: Episode 412: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 413: Calculated stateIdx = 7
+Debug: Episode 413: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 414: Calculated stateIdx = 4
+Debug: Episode 414: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 415: Calculated stateIdx = 5
+Debug: Episode 415: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 416: Calculated stateIdx = 6
+Debug: Episode 416: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 417: Calculated stateIdx = 1
+Debug: Episode 417: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 418: Calculated stateIdx = 1
+Debug: Episode 418: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 419: Calculated stateIdx = 8
+Debug: Episode 419: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 420: Calculated stateIdx = 9
+Debug: Episode 420: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 421: Calculated stateIdx = 8
+Debug: Episode 421: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 422: Calculated stateIdx = 8
+Debug: Episode 422: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 423: Calculated stateIdx = 1
+Debug: Episode 423: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 424: Calculated stateIdx = 4
+Debug: Episode 424: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 425: Calculated stateIdx = 3
+Debug: Episode 425: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 426: Calculated stateIdx = 6
+Debug: Episode 426: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 427: Calculated stateIdx = 4
+Debug: Episode 427: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 428: Calculated stateIdx = 9
+Debug: Episode 428: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 429: Calculated stateIdx = 5
+Debug: Episode 429: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 430: Calculated stateIdx = 3
+Debug: Episode 430: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 431: Calculated stateIdx = 2
+Debug: Episode 431: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 432: Calculated stateIdx = 8
+Debug: Episode 432: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 433: Calculated stateIdx = 5
+Debug: Episode 433: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 434: Calculated stateIdx = 2
+Debug: Episode 434: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 435: Calculated stateIdx = 1
+Debug: Episode 435: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 436: Calculated stateIdx = 7
+Debug: Episode 436: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 437: Calculated stateIdx = 2
+Debug: Episode 437: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 438: Calculated stateIdx = 9
+Debug: Episode 438: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 439: Calculated stateIdx = 7
+Debug: Episode 439: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 440: Calculated stateIdx = 2
+Debug: Episode 440: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 441: Calculated stateIdx = 3
+Debug: Episode 441: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 442: Calculated stateIdx = 7
+Debug: Episode 442: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 443: Calculated stateIdx = 5
+Debug: Episode 443: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 444: Calculated stateIdx = 5
+Debug: Episode 444: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 445: Calculated stateIdx = 9
+Debug: Episode 445: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 446: Calculated stateIdx = 7
+Debug: Episode 446: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 447: Calculated stateIdx = 8
+Debug: Episode 447: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 448: Calculated stateIdx = 9
+Debug: Episode 448: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 449: Calculated stateIdx = 6
+Debug: Episode 449: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 450: Calculated stateIdx = 2
+Debug: Episode 450: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 451: Calculated stateIdx = 8
+Debug: Episode 451: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 452: Calculated stateIdx = 5
+Debug: Episode 452: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 453: Calculated stateIdx = 6
+Debug: Episode 453: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 454: Calculated stateIdx = 8
+Debug: Episode 454: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 455: Calculated stateIdx = 1
+Debug: Episode 455: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 456: Calculated stateIdx = 6
+Debug: Episode 456: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 457: Calculated stateIdx = 2
+Debug: Episode 457: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 458: Calculated stateIdx = 5
+Debug: Episode 458: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 459: Calculated stateIdx = 1
+Debug: Episode 459: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 460: Calculated stateIdx = 2
+Debug: Episode 460: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 461: Calculated stateIdx = 2
+Debug: Episode 461: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 462: Calculated stateIdx = 5
+Debug: Episode 462: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 463: Calculated stateIdx = 7
+Debug: Episode 463: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 464: Calculated stateIdx = 5
+Debug: Episode 464: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 465: Calculated stateIdx = 9
+Debug: Episode 465: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 466: Calculated stateIdx = 4
+Debug: Episode 466: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 467: Calculated stateIdx = 3
+Debug: Episode 467: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 468: Calculated stateIdx = 8
+Debug: Episode 468: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 469: Calculated stateIdx = 3
+Debug: Episode 469: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 470: Calculated stateIdx = 9
+Debug: Episode 470: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 471: Calculated stateIdx = 2
+Debug: Episode 471: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 472: Calculated stateIdx = 9
+Debug: Episode 472: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 473: Calculated stateIdx = 3
+Debug: Episode 473: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 474: Calculated stateIdx = 8
+Debug: Episode 474: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 475: Calculated stateIdx = 5
+Debug: Episode 475: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 476: Calculated stateIdx = 8
+Debug: Episode 476: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 477: Calculated stateIdx = 3
+Debug: Episode 477: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 478: Calculated stateIdx = 6
+Debug: Episode 478: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 479: Calculated stateIdx = 9
+Debug: Episode 479: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 480: Calculated stateIdx = 5
+Debug: Episode 480: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 481: Calculated stateIdx = 6
+Debug: Episode 481: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 482: Calculated stateIdx = 7
+Debug: Episode 482: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 483: Calculated stateIdx = 5
+Debug: Episode 483: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 484: Calculated stateIdx = 4
+Debug: Episode 484: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 485: Calculated stateIdx = 5
+Debug: Episode 485: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 486: Calculated stateIdx = 8
+Debug: Episode 486: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 487: Calculated stateIdx = 2
+Debug: Episode 487: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 488: Calculated stateIdx = 2
+Debug: Episode 488: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 489: Calculated stateIdx = 8
+Debug: Episode 489: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 490: Calculated stateIdx = 8
+Debug: Episode 490: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 491: Calculated stateIdx = 4
+Debug: Episode 491: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 492: Calculated stateIdx = 5
+Debug: Episode 492: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 493: Calculated stateIdx = 1
+Debug: Episode 493: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 494: Calculated stateIdx = 1
+Debug: Episode 494: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 495: Calculated stateIdx = 5
+Debug: Episode 495: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 496: Calculated stateIdx = 5
+Debug: Episode 496: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 497: Calculated stateIdx = 5
+Debug: Episode 497: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 498: Calculated stateIdx = 2
+Debug: Episode 498: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 499: Calculated stateIdx = 8
+Debug: Episode 499: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 500: Calculated stateIdx = 9
+Debug: Episode 500: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Completed 500/1000 episodes
+Episode 501: Calculated stateIdx = 8
+Debug: Episode 501: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 502: Calculated stateIdx = 5
+Debug: Episode 502: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 503: Calculated stateIdx = 1
+Debug: Episode 503: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 504: Calculated stateIdx = 8
+Debug: Episode 504: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 505: Calculated stateIdx = 8
+Debug: Episode 505: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 506: Calculated stateIdx = 2
+Debug: Episode 506: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 507: Calculated stateIdx = 8
+Debug: Episode 507: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 508: Calculated stateIdx = 8
+Debug: Episode 508: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 509: Calculated stateIdx = 8
+Debug: Episode 509: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 510: Calculated stateIdx = 9
+Debug: Episode 510: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 511: Calculated stateIdx = 6
+Debug: Episode 511: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 512: Calculated stateIdx = 6
+Debug: Episode 512: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 513: Calculated stateIdx = 9
+Debug: Episode 513: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 514: Calculated stateIdx = 7
+Debug: Episode 514: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 515: Calculated stateIdx = 1
+Debug: Episode 515: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 516: Calculated stateIdx = 1
+Debug: Episode 516: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 517: Calculated stateIdx = 5
+Debug: Episode 517: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 518: Calculated stateIdx = 9
+Debug: Episode 518: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 519: Calculated stateIdx = 7
+Debug: Episode 519: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 520: Calculated stateIdx = 3
+Debug: Episode 520: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 521: Calculated stateIdx = 4
+Debug: Episode 521: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 522: Calculated stateIdx = 6
+Debug: Episode 522: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 523: Calculated stateIdx = 8
+Debug: Episode 523: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 524: Calculated stateIdx = 7
+Debug: Episode 524: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 525: Calculated stateIdx = 8
+Debug: Episode 525: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 526: Calculated stateIdx = 4
+Debug: Episode 526: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 527: Calculated stateIdx = 4
+Debug: Episode 527: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 528: Calculated stateIdx = 2
+Debug: Episode 528: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 529: Calculated stateIdx = 3
+Debug: Episode 529: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 530: Calculated stateIdx = 8
+Debug: Episode 530: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 531: Calculated stateIdx = 8
+Debug: Episode 531: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 532: Calculated stateIdx = 8
+Debug: Episode 532: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 533: Calculated stateIdx = 9
+Debug: Episode 533: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 534: Calculated stateIdx = 4
+Debug: Episode 534: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 535: Calculated stateIdx = 8
+Debug: Episode 535: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 536: Calculated stateIdx = 7
+Debug: Episode 536: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 537: Calculated stateIdx = 7
+Debug: Episode 537: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 538: Calculated stateIdx = 2
+Debug: Episode 538: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 539: Calculated stateIdx = 4
+Debug: Episode 539: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 540: Calculated stateIdx = 2
+Debug: Episode 540: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 541: Calculated stateIdx = 9
+Debug: Episode 541: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 542: Calculated stateIdx = 4
+Debug: Episode 542: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 543: Calculated stateIdx = 2
+Debug: Episode 543: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 544: Calculated stateIdx = 7
+Debug: Episode 544: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 545: Calculated stateIdx = 6
+Debug: Episode 545: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 546: Calculated stateIdx = 5
+Debug: Episode 546: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 547: Calculated stateIdx = 3
+Debug: Episode 547: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 548: Calculated stateIdx = 8
+Debug: Episode 548: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 549: Calculated stateIdx = 4
+Debug: Episode 549: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 550: Calculated stateIdx = 8
+Debug: Episode 550: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 551: Calculated stateIdx = 6
+Debug: Episode 551: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 552: Calculated stateIdx = 8
+Debug: Episode 552: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 553: Calculated stateIdx = 6
+Debug: Episode 553: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 554: Calculated stateIdx = 6
+Debug: Episode 554: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 555: Calculated stateIdx = 7
+Debug: Episode 555: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 556: Calculated stateIdx = 4
+Debug: Episode 556: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 557: Calculated stateIdx = 2
+Debug: Episode 557: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 558: Calculated stateIdx = 2
+Debug: Episode 558: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 559: Calculated stateIdx = 9
+Debug: Episode 559: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 560: Calculated stateIdx = 6
+Debug: Episode 560: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 561: Calculated stateIdx = 8
+Debug: Episode 561: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 562: Calculated stateIdx = 1
+Debug: Episode 562: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 563: Calculated stateIdx = 3
+Debug: Episode 563: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 564: Calculated stateIdx = 1
+Debug: Episode 564: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 565: Calculated stateIdx = 6
+Debug: Episode 565: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 566: Calculated stateIdx = 5
+Debug: Episode 566: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 567: Calculated stateIdx = 5
+Debug: Episode 567: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 568: Calculated stateIdx = 4
+Debug: Episode 568: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 569: Calculated stateIdx = 8
+Debug: Episode 569: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 570: Calculated stateIdx = 5
+Debug: Episode 570: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 571: Calculated stateIdx = 5
+Debug: Episode 571: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 572: Calculated stateIdx = 7
+Debug: Episode 572: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 573: Calculated stateIdx = 6
+Debug: Episode 573: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 574: Calculated stateIdx = 6
+Debug: Episode 574: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 575: Calculated stateIdx = 7
+Debug: Episode 575: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 576: Calculated stateIdx = 7
+Debug: Episode 576: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 577: Calculated stateIdx = 1
+Debug: Episode 577: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 578: Calculated stateIdx = 8
+Debug: Episode 578: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 579: Calculated stateIdx = 5
+Debug: Episode 579: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 580: Calculated stateIdx = 2
+Debug: Episode 580: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 581: Calculated stateIdx = 4
+Debug: Episode 581: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 582: Calculated stateIdx = 8
+Debug: Episode 582: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 583: Calculated stateIdx = 5
+Debug: Episode 583: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 584: Calculated stateIdx = 2
+Debug: Episode 584: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 585: Calculated stateIdx = 6
+Debug: Episode 585: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 586: Calculated stateIdx = 1
+Debug: Episode 586: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 587: Calculated stateIdx = 2
+Debug: Episode 587: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 588: Calculated stateIdx = 2
+Debug: Episode 588: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 589: Calculated stateIdx = 2
+Debug: Episode 589: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 590: Calculated stateIdx = 3
+Debug: Episode 590: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 591: Calculated stateIdx = 2
+Debug: Episode 591: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 592: Calculated stateIdx = 6
+Debug: Episode 592: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 593: Calculated stateIdx = 1
+Debug: Episode 593: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 594: Calculated stateIdx = 4
+Debug: Episode 594: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 595: Calculated stateIdx = 9
+Debug: Episode 595: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 596: Calculated stateIdx = 5
+Debug: Episode 596: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 597: Calculated stateIdx = 7
+Debug: Episode 597: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 598: Calculated stateIdx = 1
+Debug: Episode 598: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 599: Calculated stateIdx = 1
+Debug: Episode 599: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 600: Calculated stateIdx = 3
+Debug: Episode 600: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Completed 600/1000 episodes
+Episode 601: Calculated stateIdx = 1
+Debug: Episode 601: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 602: Calculated stateIdx = 2
+Debug: Episode 602: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 603: Calculated stateIdx = 1
+Debug: Episode 603: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 604: Calculated stateIdx = 2
+Debug: Episode 604: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 605: Calculated stateIdx = 1
+Debug: Episode 605: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 606: Calculated stateIdx = 5
+Debug: Episode 606: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 607: Calculated stateIdx = 1
+Debug: Episode 607: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 608: Calculated stateIdx = 6
+Debug: Episode 608: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 609: Calculated stateIdx = 4
+Debug: Episode 609: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 610: Calculated stateIdx = 8
+Debug: Episode 610: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 611: Calculated stateIdx = 3
+Debug: Episode 611: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 612: Calculated stateIdx = 8
+Debug: Episode 612: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 613: Calculated stateIdx = 5
+Debug: Episode 613: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 614: Calculated stateIdx = 2
+Debug: Episode 614: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 615: Calculated stateIdx = 8
+Debug: Episode 615: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 616: Calculated stateIdx = 8
+Debug: Episode 616: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 617: Calculated stateIdx = 3
+Debug: Episode 617: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 618: Calculated stateIdx = 2
+Debug: Episode 618: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 619: Calculated stateIdx = 8
+Debug: Episode 619: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 620: Calculated stateIdx = 9
+Debug: Episode 620: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 621: Calculated stateIdx = 2
+Debug: Episode 621: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 622: Calculated stateIdx = 1
+Debug: Episode 622: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 623: Calculated stateIdx = 5
+Debug: Episode 623: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 624: Calculated stateIdx = 6
+Debug: Episode 624: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 625: Calculated stateIdx = 4
+Debug: Episode 625: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 626: Calculated stateIdx = 5
+Debug: Episode 626: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 627: Calculated stateIdx = 4
+Debug: Episode 627: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 628: Calculated stateIdx = 8
+Debug: Episode 628: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 629: Calculated stateIdx = 1
+Debug: Episode 629: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 630: Calculated stateIdx = 2
+Debug: Episode 630: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 631: Calculated stateIdx = 9
+Debug: Episode 631: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 632: Calculated stateIdx = 8
+Debug: Episode 632: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 633: Calculated stateIdx = 5
+Debug: Episode 633: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 634: Calculated stateIdx = 6
+Debug: Episode 634: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 635: Calculated stateIdx = 3
+Debug: Episode 635: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 636: Calculated stateIdx = 4
+Debug: Episode 636: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 637: Calculated stateIdx = 5
+Debug: Episode 637: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 638: Calculated stateIdx = 1
+Debug: Episode 638: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 639: Calculated stateIdx = 3
+Debug: Episode 639: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 640: Calculated stateIdx = 6
+Debug: Episode 640: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 641: Calculated stateIdx = 2
+Debug: Episode 641: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 642: Calculated stateIdx = 3
+Debug: Episode 642: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 643: Calculated stateIdx = 2
+Debug: Episode 643: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 644: Calculated stateIdx = 2
+Debug: Episode 644: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 645: Calculated stateIdx = 1
+Debug: Episode 645: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 646: Calculated stateIdx = 9
+Debug: Episode 646: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 647: Calculated stateIdx = 4
+Debug: Episode 647: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 648: Calculated stateIdx = 9
+Debug: Episode 648: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 649: Calculated stateIdx = 9
+Debug: Episode 649: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 650: Calculated stateIdx = 6
+Debug: Episode 650: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 651: Calculated stateIdx = 1
+Debug: Episode 651: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 652: Calculated stateIdx = 5
+Debug: Episode 652: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 653: Calculated stateIdx = 4
+Debug: Episode 653: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 654: Calculated stateIdx = 8
+Debug: Episode 654: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 655: Calculated stateIdx = 4
+Debug: Episode 655: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 656: Calculated stateIdx = 3
+Debug: Episode 656: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 657: Calculated stateIdx = 2
+Debug: Episode 657: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 658: Calculated stateIdx = 5
+Debug: Episode 658: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 659: Calculated stateIdx = 5
+Debug: Episode 659: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 660: Calculated stateIdx = 5
+Debug: Episode 660: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 661: Calculated stateIdx = 5
+Debug: Episode 661: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 662: Calculated stateIdx = 8
+Debug: Episode 662: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 663: Calculated stateIdx = 6
+Debug: Episode 663: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 664: Calculated stateIdx = 2
+Debug: Episode 664: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 665: Calculated stateIdx = 3
+Debug: Episode 665: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 666: Calculated stateIdx = 3
+Debug: Episode 666: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 667: Calculated stateIdx = 1
+Debug: Episode 667: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 668: Calculated stateIdx = 3
+Debug: Episode 668: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 669: Calculated stateIdx = 1
+Debug: Episode 669: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 670: Calculated stateIdx = 3
+Debug: Episode 670: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 671: Calculated stateIdx = 2
+Debug: Episode 671: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 672: Calculated stateIdx = 9
+Debug: Episode 672: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 673: Calculated stateIdx = 3
+Debug: Episode 673: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 674: Calculated stateIdx = 6
+Debug: Episode 674: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 675: Calculated stateIdx = 6
+Debug: Episode 675: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 676: Calculated stateIdx = 8
+Debug: Episode 676: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 677: Calculated stateIdx = 1
+Debug: Episode 677: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 678: Calculated stateIdx = 5
+Debug: Episode 678: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 679: Calculated stateIdx = 7
+Debug: Episode 679: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 680: Calculated stateIdx = 8
+Debug: Episode 680: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 681: Calculated stateIdx = 8
+Debug: Episode 681: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 682: Calculated stateIdx = 3
+Debug: Episode 682: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 683: Calculated stateIdx = 2
+Debug: Episode 683: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 684: Calculated stateIdx = 9
+Debug: Episode 684: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 685: Calculated stateIdx = 7
+Debug: Episode 685: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 686: Calculated stateIdx = 6
+Debug: Episode 686: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 687: Calculated stateIdx = 6
+Debug: Episode 687: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 688: Calculated stateIdx = 2
+Debug: Episode 688: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 689: Calculated stateIdx = 8
+Debug: Episode 689: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 690: Calculated stateIdx = 3
+Debug: Episode 690: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 691: Calculated stateIdx = 1
+Debug: Episode 691: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 692: Calculated stateIdx = 5
+Debug: Episode 692: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 693: Calculated stateIdx = 5
+Debug: Episode 693: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 694: Calculated stateIdx = 1
+Debug: Episode 694: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 695: Calculated stateIdx = 2
+Debug: Episode 695: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 696: Calculated stateIdx = 4
+Debug: Episode 696: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 697: Calculated stateIdx = 1
+Debug: Episode 697: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 698: Calculated stateIdx = 4
+Debug: Episode 698: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 699: Calculated stateIdx = 3
+Debug: Episode 699: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 700: Calculated stateIdx = 5
+Debug: Episode 700: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Completed 700/1000 episodes
+Episode 701: Calculated stateIdx = 6
+Debug: Episode 701: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 702: Calculated stateIdx = 2
+Debug: Episode 702: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 703: Calculated stateIdx = 5
+Debug: Episode 703: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 704: Calculated stateIdx = 2
+Debug: Episode 704: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 705: Calculated stateIdx = 2
+Debug: Episode 705: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 706: Calculated stateIdx = 7
+Debug: Episode 706: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 707: Calculated stateIdx = 2
+Debug: Episode 707: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 708: Calculated stateIdx = 7
+Debug: Episode 708: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 709: Calculated stateIdx = 2
+Debug: Episode 709: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 710: Calculated stateIdx = 8
+Debug: Episode 710: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 711: Calculated stateIdx = 7
+Debug: Episode 711: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 712: Calculated stateIdx = 4
+Debug: Episode 712: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 713: Calculated stateIdx = 6
+Debug: Episode 713: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 714: Calculated stateIdx = 5
+Debug: Episode 714: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 715: Calculated stateIdx = 4
+Debug: Episode 715: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 716: Calculated stateIdx = 9
+Debug: Episode 716: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 717: Calculated stateIdx = 7
+Debug: Episode 717: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 718: Calculated stateIdx = 8
+Debug: Episode 718: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 719: Calculated stateIdx = 3
+Debug: Episode 719: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 720: Calculated stateIdx = 7
+Debug: Episode 720: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 721: Calculated stateIdx = 7
+Debug: Episode 721: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 722: Calculated stateIdx = 1
+Debug: Episode 722: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 723: Calculated stateIdx = 2
+Debug: Episode 723: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 724: Calculated stateIdx = 7
+Debug: Episode 724: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 725: Calculated stateIdx = 5
+Debug: Episode 725: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 726: Calculated stateIdx = 7
+Debug: Episode 726: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 727: Calculated stateIdx = 2
+Debug: Episode 727: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 728: Calculated stateIdx = 9
+Debug: Episode 728: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 729: Calculated stateIdx = 3
+Debug: Episode 729: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 730: Calculated stateIdx = 2
+Debug: Episode 730: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 731: Calculated stateIdx = 2
+Debug: Episode 731: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 732: Calculated stateIdx = 8
+Debug: Episode 732: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 733: Calculated stateIdx = 8
+Debug: Episode 733: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 734: Calculated stateIdx = 5
+Debug: Episode 734: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 735: Calculated stateIdx = 4
+Debug: Episode 735: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 736: Calculated stateIdx = 9
+Debug: Episode 736: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 737: Calculated stateIdx = 5
+Debug: Episode 737: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 738: Calculated stateIdx = 7
+Debug: Episode 738: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 739: Calculated stateIdx = 5
+Debug: Episode 739: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 740: Calculated stateIdx = 5
+Debug: Episode 740: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 741: Calculated stateIdx = 6
+Debug: Episode 741: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 742: Calculated stateIdx = 3
+Debug: Episode 742: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 743: Calculated stateIdx = 9
+Debug: Episode 743: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 744: Calculated stateIdx = 4
+Debug: Episode 744: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 745: Calculated stateIdx = 2
+Debug: Episode 745: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 746: Calculated stateIdx = 8
+Debug: Episode 746: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 747: Calculated stateIdx = 4
+Debug: Episode 747: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 748: Calculated stateIdx = 4
+Debug: Episode 748: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 749: Calculated stateIdx = 9
+Debug: Episode 749: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 750: Calculated stateIdx = 4
+Debug: Episode 750: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 751: Calculated stateIdx = 2
+Debug: Episode 751: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 752: Calculated stateIdx = 7
+Debug: Episode 752: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 753: Calculated stateIdx = 4
+Debug: Episode 753: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 754: Calculated stateIdx = 4
+Debug: Episode 754: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 755: Calculated stateIdx = 3
+Debug: Episode 755: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 756: Calculated stateIdx = 9
+Debug: Episode 756: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 757: Calculated stateIdx = 6
+Debug: Episode 757: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 758: Calculated stateIdx = 5
+Debug: Episode 758: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 759: Calculated stateIdx = 7
+Debug: Episode 759: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 760: Calculated stateIdx = 8
+Debug: Episode 760: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 761: Calculated stateIdx = 2
+Debug: Episode 761: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 762: Calculated stateIdx = 3
+Debug: Episode 762: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 763: Calculated stateIdx = 1
+Debug: Episode 763: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 764: Calculated stateIdx = 8
+Debug: Episode 764: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 765: Calculated stateIdx = 1
+Debug: Episode 765: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 766: Calculated stateIdx = 5
+Debug: Episode 766: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 767: Calculated stateIdx = 9
+Debug: Episode 767: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 768: Calculated stateIdx = 8
+Debug: Episode 768: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 769: Calculated stateIdx = 5
+Debug: Episode 769: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 770: Calculated stateIdx = 8
+Debug: Episode 770: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 771: Calculated stateIdx = 2
+Debug: Episode 771: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 772: Calculated stateIdx = 9
+Debug: Episode 772: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 773: Calculated stateIdx = 3
+Debug: Episode 773: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 774: Calculated stateIdx = 6
+Debug: Episode 774: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 775: Calculated stateIdx = 9
+Debug: Episode 775: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 776: Calculated stateIdx = 2
+Debug: Episode 776: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 777: Calculated stateIdx = 2
+Debug: Episode 777: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 778: Calculated stateIdx = 8
+Debug: Episode 778: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 779: Calculated stateIdx = 7
+Debug: Episode 779: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 780: Calculated stateIdx = 6
+Debug: Episode 780: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 781: Calculated stateIdx = 7
+Debug: Episode 781: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 782: Calculated stateIdx = 6
+Debug: Episode 782: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 783: Calculated stateIdx = 2
+Debug: Episode 783: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 784: Calculated stateIdx = 5
+Debug: Episode 784: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 785: Calculated stateIdx = 2
+Debug: Episode 785: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 786: Calculated stateIdx = 9
+Debug: Episode 786: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 787: Calculated stateIdx = 5
+Debug: Episode 787: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 788: Calculated stateIdx = 5
+Debug: Episode 788: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 789: Calculated stateIdx = 4
+Debug: Episode 789: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 790: Calculated stateIdx = 8
+Debug: Episode 790: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 791: Calculated stateIdx = 1
+Debug: Episode 791: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 792: Calculated stateIdx = 6
+Debug: Episode 792: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 793: Calculated stateIdx = 5
+Debug: Episode 793: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 794: Calculated stateIdx = 5
+Debug: Episode 794: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 795: Calculated stateIdx = 1
+Debug: Episode 795: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 796: Calculated stateIdx = 7
+Debug: Episode 796: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 797: Calculated stateIdx = 9
+Debug: Episode 797: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 798: Calculated stateIdx = 4
+Debug: Episode 798: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 799: Calculated stateIdx = 7
+Debug: Episode 799: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 800: Calculated stateIdx = 7
+Debug: Episode 800: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Completed 800/1000 episodes
+Episode 801: Calculated stateIdx = 9
+Debug: Episode 801: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 802: Calculated stateIdx = 3
+Debug: Episode 802: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 803: Calculated stateIdx = 5
+Debug: Episode 803: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 804: Calculated stateIdx = 4
+Debug: Episode 804: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 805: Calculated stateIdx = 5
+Debug: Episode 805: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 806: Calculated stateIdx = 9
+Debug: Episode 806: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 807: Calculated stateIdx = 8
+Debug: Episode 807: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 808: Calculated stateIdx = 7
+Debug: Episode 808: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 809: Calculated stateIdx = 4
+Debug: Episode 809: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 810: Calculated stateIdx = 1
+Debug: Episode 810: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 811: Calculated stateIdx = 8
+Debug: Episode 811: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 812: Calculated stateIdx = 9
+Debug: Episode 812: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 813: Calculated stateIdx = 1
+Debug: Episode 813: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 814: Calculated stateIdx = 7
+Debug: Episode 814: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 815: Calculated stateIdx = 7
+Debug: Episode 815: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 816: Calculated stateIdx = 6
+Debug: Episode 816: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 817: Calculated stateIdx = 4
+Debug: Episode 817: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 818: Calculated stateIdx = 6
+Debug: Episode 818: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 819: Calculated stateIdx = 2
+Debug: Episode 819: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 820: Calculated stateIdx = 5
+Debug: Episode 820: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 821: Calculated stateIdx = 7
+Debug: Episode 821: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 822: Calculated stateIdx = 1
+Debug: Episode 822: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 823: Calculated stateIdx = 5
+Debug: Episode 823: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 824: Calculated stateIdx = 6
+Debug: Episode 824: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 825: Calculated stateIdx = 5
+Debug: Episode 825: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 826: Calculated stateIdx = 8
+Debug: Episode 826: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 827: Calculated stateIdx = 4
+Debug: Episode 827: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 828: Calculated stateIdx = 6
+Debug: Episode 828: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 829: Calculated stateIdx = 9
+Debug: Episode 829: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 830: Calculated stateIdx = 4
+Debug: Episode 830: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 831: Calculated stateIdx = 3
+Debug: Episode 831: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 832: Calculated stateIdx = 5
+Debug: Episode 832: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 833: Calculated stateIdx = 2
+Debug: Episode 833: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 834: Calculated stateIdx = 3
+Debug: Episode 834: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 835: Calculated stateIdx = 6
+Debug: Episode 835: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 836: Calculated stateIdx = 5
+Debug: Episode 836: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 837: Calculated stateIdx = 7
+Debug: Episode 837: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 838: Calculated stateIdx = 5
+Debug: Episode 838: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 839: Calculated stateIdx = 6
+Debug: Episode 839: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 840: Calculated stateIdx = 4
+Debug: Episode 840: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 841: Calculated stateIdx = 2
+Debug: Episode 841: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 842: Calculated stateIdx = 8
+Debug: Episode 842: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 843: Calculated stateIdx = 2
+Debug: Episode 843: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 844: Calculated stateIdx = 8
+Debug: Episode 844: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 845: Calculated stateIdx = 3
+Debug: Episode 845: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 846: Calculated stateIdx = 4
+Debug: Episode 846: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 847: Calculated stateIdx = 1
+Debug: Episode 847: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 848: Calculated stateIdx = 7
+Debug: Episode 848: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 849: Calculated stateIdx = 6
+Debug: Episode 849: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 850: Calculated stateIdx = 5
+Debug: Episode 850: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 851: Calculated stateIdx = 1
+Debug: Episode 851: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 852: Calculated stateIdx = 9
+Debug: Episode 852: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 853: Calculated stateIdx = 3
+Debug: Episode 853: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 854: Calculated stateIdx = 9
+Debug: Episode 854: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 855: Calculated stateIdx = 3
+Debug: Episode 855: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 856: Calculated stateIdx = 1
+Debug: Episode 856: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 857: Calculated stateIdx = 3
+Debug: Episode 857: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 858: Calculated stateIdx = 5
+Debug: Episode 858: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 859: Calculated stateIdx = 6
+Debug: Episode 859: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 860: Calculated stateIdx = 3
+Debug: Episode 860: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 861: Calculated stateIdx = 9
+Debug: Episode 861: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 862: Calculated stateIdx = 5
+Debug: Episode 862: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 863: Calculated stateIdx = 4
+Debug: Episode 863: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 864: Calculated stateIdx = 5
+Debug: Episode 864: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 865: Calculated stateIdx = 6
+Debug: Episode 865: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 866: Calculated stateIdx = 6
+Debug: Episode 866: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 867: Calculated stateIdx = 1
+Debug: Episode 867: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 868: Calculated stateIdx = 1
+Debug: Episode 868: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 869: Calculated stateIdx = 7
+Debug: Episode 869: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 870: Calculated stateIdx = 9
+Debug: Episode 870: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 871: Calculated stateIdx = 6
+Debug: Episode 871: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 872: Calculated stateIdx = 1
+Debug: Episode 872: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 873: Calculated stateIdx = 5
+Debug: Episode 873: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 874: Calculated stateIdx = 6
+Debug: Episode 874: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 875: Calculated stateIdx = 3
+Debug: Episode 875: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 876: Calculated stateIdx = 2
+Debug: Episode 876: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 877: Calculated stateIdx = 8
+Debug: Episode 877: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 878: Calculated stateIdx = 5
+Debug: Episode 878: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 879: Calculated stateIdx = 1
+Debug: Episode 879: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 880: Calculated stateIdx = 2
+Debug: Episode 880: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 881: Calculated stateIdx = 2
+Debug: Episode 881: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 882: Calculated stateIdx = 9
+Debug: Episode 882: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 883: Calculated stateIdx = 2
+Debug: Episode 883: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 884: Calculated stateIdx = 3
+Debug: Episode 884: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 885: Calculated stateIdx = 7
+Debug: Episode 885: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 886: Calculated stateIdx = 2
+Debug: Episode 886: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 887: Calculated stateIdx = 4
+Debug: Episode 887: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 888: Calculated stateIdx = 1
+Debug: Episode 888: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 889: Calculated stateIdx = 3
+Debug: Episode 889: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 890: Calculated stateIdx = 3
+Debug: Episode 890: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 891: Calculated stateIdx = 7
+Debug: Episode 891: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 892: Calculated stateIdx = 8
+Debug: Episode 892: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 893: Calculated stateIdx = 9
+Debug: Episode 893: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 894: Calculated stateIdx = 4
+Debug: Episode 894: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 895: Calculated stateIdx = 8
+Debug: Episode 895: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 896: Calculated stateIdx = 3
+Debug: Episode 896: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 897: Calculated stateIdx = 2
+Debug: Episode 897: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 898: Calculated stateIdx = 7
+Debug: Episode 898: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 899: Calculated stateIdx = 2
+Debug: Episode 899: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 900: Calculated stateIdx = 3
+Debug: Episode 900: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Completed 900/1000 episodes
+Episode 901: Calculated stateIdx = 2
+Debug: Episode 901: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 902: Calculated stateIdx = 1
+Debug: Episode 902: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 903: Calculated stateIdx = 3
+Debug: Episode 903: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 904: Calculated stateIdx = 4
+Debug: Episode 904: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 905: Calculated stateIdx = 6
+Debug: Episode 905: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 906: Calculated stateIdx = 7
+Debug: Episode 906: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 907: Calculated stateIdx = 9
+Debug: Episode 907: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 908: Calculated stateIdx = 5
+Debug: Episode 908: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 909: Calculated stateIdx = 2
+Debug: Episode 909: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 910: Calculated stateIdx = 4
+Debug: Episode 910: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 911: Calculated stateIdx = 5
+Debug: Episode 911: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 912: Calculated stateIdx = 3
+Debug: Episode 912: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 913: Calculated stateIdx = 6
+Debug: Episode 913: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 914: Calculated stateIdx = 5
+Debug: Episode 914: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 915: Calculated stateIdx = 5
+Debug: Episode 915: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 916: Calculated stateIdx = 6
+Debug: Episode 916: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 917: Calculated stateIdx = 3
+Debug: Episode 917: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 918: Calculated stateIdx = 8
+Debug: Episode 918: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 919: Calculated stateIdx = 8
+Debug: Episode 919: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 920: Calculated stateIdx = 2
+Debug: Episode 920: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 921: Calculated stateIdx = 8
+Debug: Episode 921: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 922: Calculated stateIdx = 4
+Debug: Episode 922: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 923: Calculated stateIdx = 8
+Debug: Episode 923: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 924: Calculated stateIdx = 8
+Debug: Episode 924: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 925: Calculated stateIdx = 6
+Debug: Episode 925: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 926: Calculated stateIdx = 1
+Debug: Episode 926: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 927: Calculated stateIdx = 2
+Debug: Episode 927: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 928: Calculated stateIdx = 5
+Debug: Episode 928: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 929: Calculated stateIdx = 5
+Debug: Episode 929: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 930: Calculated stateIdx = 1
+Debug: Episode 930: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 931: Calculated stateIdx = 2
+Debug: Episode 931: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 932: Calculated stateIdx = 8
+Debug: Episode 932: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 933: Calculated stateIdx = 8
+Debug: Episode 933: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 934: Calculated stateIdx = 5
+Debug: Episode 934: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 935: Calculated stateIdx = 2
+Debug: Episode 935: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 936: Calculated stateIdx = 3
+Debug: Episode 936: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 937: Calculated stateIdx = 1
+Debug: Episode 937: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 938: Calculated stateIdx = 9
+Debug: Episode 938: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 939: Calculated stateIdx = 2
+Debug: Episode 939: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 940: Calculated stateIdx = 4
+Debug: Episode 940: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 941: Calculated stateIdx = 1
+Debug: Episode 941: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 942: Calculated stateIdx = 5
+Debug: Episode 942: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 943: Calculated stateIdx = 6
+Debug: Episode 943: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 944: Calculated stateIdx = 9
+Debug: Episode 944: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 945: Calculated stateIdx = 3
+Debug: Episode 945: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 946: Calculated stateIdx = 2
+Debug: Episode 946: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 947: Calculated stateIdx = 2
+Debug: Episode 947: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 948: Calculated stateIdx = 7
+Debug: Episode 948: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 949: Calculated stateIdx = 8
+Debug: Episode 949: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 950: Calculated stateIdx = 5
+Debug: Episode 950: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 951: Calculated stateIdx = 4
+Debug: Episode 951: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 952: Calculated stateIdx = 7
+Debug: Episode 952: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 953: Calculated stateIdx = 2
+Debug: Episode 953: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 954: Calculated stateIdx = 9
+Debug: Episode 954: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 955: Calculated stateIdx = 6
+Debug: Episode 955: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 956: Calculated stateIdx = 6
+Debug: Episode 956: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 957: Calculated stateIdx = 5
+Debug: Episode 957: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 958: Calculated stateIdx = 2
+Debug: Episode 958: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 959: Calculated stateIdx = 2
+Debug: Episode 959: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 960: Calculated stateIdx = 9
+Debug: Episode 960: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 961: Calculated stateIdx = 1
+Debug: Episode 961: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 962: Calculated stateIdx = 5
+Debug: Episode 962: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 963: Calculated stateIdx = 3
+Debug: Episode 963: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 964: Calculated stateIdx = 5
+Debug: Episode 964: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 965: Calculated stateIdx = 2
+Debug: Episode 965: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 966: Calculated stateIdx = 5
+Debug: Episode 966: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 967: Calculated stateIdx = 7
+Debug: Episode 967: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 968: Calculated stateIdx = 2
+Debug: Episode 968: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 969: Calculated stateIdx = 5
+Debug: Episode 969: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 970: Calculated stateIdx = 4
+Debug: Episode 970: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 971: Calculated stateIdx = 7
+Debug: Episode 971: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 972: Calculated stateIdx = 9
+Debug: Episode 972: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 973: Calculated stateIdx = 7
+Debug: Episode 973: Action = 2 (1=Human, 2=Robot, 3=Collaborative)
+Episode 974: Calculated stateIdx = 2
+Debug: Episode 974: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 975: Calculated stateIdx = 1
+Debug: Episode 975: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 976: Calculated stateIdx = 3
+Debug: Episode 976: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 977: Calculated stateIdx = 4
+Debug: Episode 977: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 978: Calculated stateIdx = 2
+Debug: Episode 978: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 979: Calculated stateIdx = 6
+Debug: Episode 979: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 980: Calculated stateIdx = 6
+Debug: Episode 980: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 981: Calculated stateIdx = 4
+Debug: Episode 981: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 982: Calculated stateIdx = 9
+Debug: Episode 982: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 983: Calculated stateIdx = 2
+Debug: Episode 983: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 984: Calculated stateIdx = 2
+Debug: Episode 984: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 985: Calculated stateIdx = 7
+Debug: Episode 985: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 986: Calculated stateIdx = 4
+Debug: Episode 986: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 987: Calculated stateIdx = 9
+Debug: Episode 987: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 988: Calculated stateIdx = 5
+Debug: Episode 988: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 989: Calculated stateIdx = 2
+Debug: Episode 989: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 990: Calculated stateIdx = 9
+Debug: Episode 990: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 991: Calculated stateIdx = 9
+Debug: Episode 991: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 992: Calculated stateIdx = 7
+Debug: Episode 992: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 993: Calculated stateIdx = 2
+Debug: Episode 993: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 994: Calculated stateIdx = 4
+Debug: Episode 994: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 995: Calculated stateIdx = 6
+Debug: Episode 995: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 996: Calculated stateIdx = 2
+Debug: Episode 996: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 997: Calculated stateIdx = 9
+Debug: Episode 997: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 998: Calculated stateIdx = 1
+Debug: Episode 998: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Episode 999: Calculated stateIdx = 7
+Debug: Episode 999: Action = 3 (1=Human, 2=Robot, 3=Collaborative)
+Episode 1000: Calculated stateIdx = 4
+Debug: Episode 1000: Action = 1 (1=Human, 2=Robot, 3=Collaborative)
+Completed 1000/1000 episodes
+=== Final Results ===
+Throughput: 60.44 tasks/min
+Workload: 4.25 fatigue score
+Safety Rate: 99.90%
+Results saved to HRC_Simulation_Results.csv, including Action column

@@ -1,0 +1,13 @@
+>> Figure_4
+Debug: heatmap_data for Low-Fatigue, Expert Workers:
+   60.5752
+   61.0860
+   60.3786
+
+Debug: heatmap_data for High-Fatigue, Novice Workers:
+   60.4168
+   60.5710
+   60.6754
+
+Debug: Common CLim set to [60.3786, 61.086]
+>> 
