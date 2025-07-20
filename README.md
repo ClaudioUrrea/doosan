@@ -73,8 +73,8 @@ Usage
      - Note: RoboDK visualization requires a valid connection.
 
 2. Generate Tables:
-   - Run Table_2.m to produce Table_1.csv (Section 4.1, Table 2).
-   - Run Table_3.m to produce Table_2.csv (Section 4.1, Table 3).
+   - Run Table_2.m to produce Table_2.csv (Section 4.1, Table 2).
+   - Run Table_3.m to produce Table_3.csv (Section 4.1, Table 3).
    - Inputs: HRC_Simulation_Results.csv.
 
 3. Generate Figures:
